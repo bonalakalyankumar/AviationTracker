@@ -49,9 +49,6 @@ The **Aviation Tracker Application** is an Android app designed to provide real-
 ## 🤝 Contributions
 Contributions are welcome! Fork the repository, create a branch, and submit a pull request.
 
-## 📜 License
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
-
 ---
 
 > Developed with dedication by [Kalyan Kumar Bonala](https://github.com/bonalakalyankumar)
